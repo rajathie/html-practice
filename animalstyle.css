@@ -204,6 +204,9 @@ position: fixed;
 } 
 
 a{ color: black!important;}
-a: visited {
-  color: black!important; }
+
+a:visited{
+    
+    color:black;
+}
 
